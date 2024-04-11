@@ -25,7 +25,7 @@ DROP DATABASE IF EXISTS `Chinook`;
 CREATE DATABASE `Chinook`;
 
 
-USE `Chinook`;
+USE `chinook`;
 
 
 /*******************************************************************************
